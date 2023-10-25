@@ -1,0 +1,23 @@
+input{
+    display: block;
+}
+body{
+    background-color: grey;
+}
+.message{
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 20pt;
+    color: grey;
+    background-color:rgb(37, 72, 106);
+    padding: 1rem;
+    margin: 1rem;
+    border: 3px solid rgb(38, 7, 7);
+}
+#password{
+    display: inline-block;
+    color: rgb(38, 7, 7);
+    background-color: rgb(37, 72, 106);
+    padding: 0.5rem;
+    border: 3px solid rgb(38, 7, 7);
+}
